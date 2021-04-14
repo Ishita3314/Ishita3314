@@ -9,7 +9,6 @@
 </p>
 
 * My primary coding and problem solving language: C++
-* Budding coder, currently in exploring and learning phase. 
 
 ---
 <details>
