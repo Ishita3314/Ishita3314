@@ -4,11 +4,13 @@
 
 ### My Tech Toolbox 🧰
 
+* Languages and tools:
+
 <p align="left">
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+<img src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4" alt="Python" width="40" height="40"/> 
+ 
 </p>
-
-* My primary coding and problem solving language: C++
 
 ---
 <details>
@@ -23,7 +25,7 @@
 
 [twitter]: https://twitter.com/IshitaS03
 [gmail]: ishita.bvt@gmail.com
-[linkedin]: https://www.linkedin.com/in/ishita-saxena-8324bb203/
-[Instagram]: https://www.instagram.com/ishita._.saxena/
+[linkedin]: https://www.linkedin.com/in/ishita-saxena-03/
+[Instagram]: https://www.instagram.com/mikrokosmos._.ish/
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
